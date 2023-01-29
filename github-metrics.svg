@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1561" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1535" class="">
     <defs>
         <style/>
     </defs>
@@ -754,7 +754,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.96m out of 373m repositories</span>
+                                    <span class="gh">ranked 4.23m out of 373m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -862,7 +862,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 27 Jan 2023, 13:29:40
+                            On 27 Jan 2023, 15:08:20
                         </div>
                     </section>
                 </div>
@@ -872,29 +872,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            图标及其大小自适应
+                            添加语言的默认图标
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">23ed55bc</span>
-                            <span class="code">src/pages/index.astro</span>
-                            <span class="code"><span class="snippet additions">++6</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">d3d8ab75</span>
+                            <span class="code">src/styles/iconVars.css</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -228,4 +228,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   right: 1rem;<br /></span><span class="token prefix unchanged">·</span><span class="token line">   top: 1rem;<br /></span><span class="token prefix unchanged">·</span><span class="token line"> }<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"> @media screen and (max-width: 600px) {<br /></span><span class="token prefix inserted">+</span><span class="token line">   .main-icon {<br /></span><span class="token prefix inserted">+</span><span class="token line">     background-size: 80%;<br /></span><span class="token prefix inserted">+</span><span class="token line">   }<br /></span><span class="token prefix inserted">+</span><span class="token line"> }<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;/style&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -21,4 +21,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   --icon-github: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxwYXRoIGZpbGw9IiM4ODg4ODgiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE2IDJhMTQgMTQgMCAwIDAtNC40MyAyNy4yOGMuNy4xMyAxLS4zIDEtLjY3di0yLjM4Yy0zLjg5Ljg0LTQuNzEtMS44OC00LjcxLTEuODhhMy43MSAzLjcxIDAgMCAwLTEuNjItMi4wNWMtMS4yNy0uODYuMS0uODUuMS0uODVhMi45NCAyLjk0IDAgMCAxIDIuMTQgMS40NWEzIDMgMCAwIDAgNC4wOCAxLjE2YTIuOTMgMi45MyAwIDAgMSAuODgtMS44N2MtMy4xLS4zNi02LjM3LTEuNTYtNi4zNy02LjkyYTUuNCA1LjQgMCAwIDEgMS40NC0zLjc2YTUgNSAwIDAgMSAuMTQtMy43czEuMTctLjM4IDMuODUgMS40M2ExMy4zIDEzLjMgMCAwIDEgNyAwYzIuNjctMS44MSAzLjg0LTEuNDMgMy44NC0xLjQzYTUgNSAwIDAgMSAuMTQgMy43YTUuNCA1LjQgMCAwIDEgMS40NCAzLjc2YzAgNS4zOC0zLjI3IDYuNTYtNi4zOSA2LjkxYTMuMzMgMy4zMyAwIDAgMSAuOTUgMi41OXYzLjg0YzAgLjQ2LjI1LjgxIDEgLjY3QTE0IDE0IDAgMCAwIDE2IDJaIi8+PC9zdmc+);<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">   --icon-search: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxwYXRoIGZpbGw9IiM4ODg4ODgiIGQ9Im0yOSAyNy41ODZsLTcuNTUyLTcuNTUyYTExLjAxOCAxMS4wMTggMCAxIDAtMS40MTQgMS40MTRMMjcuNTg2IDI5Wk00IDEzYTkgOSAwIDEgMSA5IDlhOS4wMSA5LjAxIDAgMCAxLTktOVoiLz48L3N2Zz4=);<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">   --icon-file: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxwYXRoIGZpbGw9IiNjNWM1YzUiIGQ9Ik0yMC40MTQgMkg1djI4aDIyVjguNTg2Wk03IDI4VjRoMTJ2Nmg2djE4WiIvPjwvc3ZnPg==)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2023, 23:10:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 30 Jan 2023, 00:14:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
