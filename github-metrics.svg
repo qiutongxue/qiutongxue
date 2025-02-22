@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1548" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1575" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            887 Commits
+                            889 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.87985726183226" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="220.87985726183226" y="0" width="76.72488519350347" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="297.6047424553357" y="0" width="51.69885632477201" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="349.30359878010773" y="0" width="37.21636088327811" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="386.51995966338586" y="0" width="35.623785170802755" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="422.1437448341886" y="0" width="13.529009517859935" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="435.67275435204857" y="0" width="12.578258872778417" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="448.251013224827" y="0" width="11.748986775173044" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.55287106358276" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="220.55287106358276" y="0" width="77.27904752656877" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="297.8319185901516" y="0" width="51.626534346089656" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="349.4584529362412" y="0" width="37.1642985931275" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="386.6227515293687" y="0" width="35.573950748634445" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="422.19670227800316" y="0" width="13.510083669059773" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.70678594706294" y="0" width="12.560663037304929" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="448.2674489843679" y="0" width="11.73255101563215" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -594,7 +594,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.03m out of 235m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 28 stars</div>
                             </div>
@@ -723,7 +723,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.71m out of 235m repositories</span>
+                                    <span class="gh">ranked 3.71m out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -864,7 +864,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 21 Feb 2025, 20:01:04
+                            On 20 Feb 2025, 10:08:14
                         </div>
                     </section>
                 </div>
@@ -874,14 +874,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix: 修复监听失败导致的无限循环问题, fix #52
+                            docs: 修复 README releases 链接错误
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">94afb3b2</span>
-                            <span class="code">electron/main/tasks/autoReply.ts</span>
+                            <span class="code">507bd75f</span>
+                            <span class="code">README.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -892,14 +892,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -241,7 +241,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">       pageManager.register(TASK_NAME, (page, account) =&gt; new CommentManager(page, account))<br /></span><span class="token prefix unchanged">·</span><span class="token line">     }<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">     pageManager.startTask(TASK_NAME)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">     await pageManager.startTask(TASK_NAME)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">     return true<br /></span><span class="token prefix unchanged">·</span><span class="token line">   }<br /></span><span class="token prefix unchanged">·</span><span class="token line">   catch (error) {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -43,7 +43,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">### 下载安装<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">访问 [Releases]([releases/latest](https://github.com/qiutongxue/oba-live-tool/releases/latest)) 页面下载最新版本安装包<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">访问 [Releases](https://github.com/qiutongxue/oba-live-tool/releases/latest) 页面下载最新版本安装包<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">### 源码构建<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2025, 10:41:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2025, 11:16:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
