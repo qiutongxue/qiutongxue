@@ -594,7 +594,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.03m out of 231m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 28 stars</div>
                             </div>
@@ -723,7 +723,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.72m out of 231m repositories</span>
+                                    <span class="gh">ranked 3.72m out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -881,10 +881,10 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">cc0d1958</span>
-                            <span class="code">src/components/ui/alert-dialog.tsx</span>
+                            <span class="code">src/components/ui/context-menu.tsx</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -892,14 +892,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -97,8 +97,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  {...props}<br /></span><span class="token prefix unchanged">·</span><span class="token line">/&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">))<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">AlertDialogDescription.displayName<br /></span><span class="token prefix deleted">-</span><span class="token line">= AlertDialogPrimitive.Description.displayName<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">AlertDialogDescription.displayName =<br /></span><span class="token prefix inserted">+</span><span class="token line">AlertDialogPrimitive.Description.displayName<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">const AlertDialogAction = React.forwardRef&lt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">React.ElementRef&lt;typeof AlertDialogPrimitive.Action&gt;,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -108,7 +108,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  {children}<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/ContextMenuPrimitive.CheckboxItem&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">))<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">ContextMenuCheckboxItem.displayName = ContextMenuPrimitive.CheckboxItem.displayName<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">ContextMenuCheckboxItem.displayName =<br /></span><span class="token prefix inserted">+</span><span class="token line">ContextMenuPrimitive.CheckboxItem.displayName<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">const ContextMenuRadioItem = React.forwardRef&lt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">React.ElementRef&lt;typeof ContextMenuPrimitive.RadioItem&gt;,</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2025, 04:14:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2025, 05:11:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
