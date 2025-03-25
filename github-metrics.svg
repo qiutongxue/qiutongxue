@@ -561,7 +561,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 708k out of 227m repositories</span>
+                                    <span class="gh">ranked 708k out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 18 times</div>
                             </div>
@@ -640,7 +640,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 516k out of 227m repositories</span>
+                                    <span class="gh">ranked 516k out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 71 stars</div>
                             </div>
@@ -895,7 +895,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">762043ed</span>
-                            <span class="code">src/components/ui/card.tsx</span>
+                            <span class="code">src/pages/SettingsPage/components/BrowserSetting.tsx</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -906,14 +906,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -13,7 +13,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;div<br /></span><span class="token prefix unchanged">·</span><span class="token line">  ref={ref}<br /></span><span class="token prefix unchanged">·</span><span class="token line">  className={cn(<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    'rounded-xl border bg-card text-card-foreground shadow',<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    'rounded-xl border bg-card text-card-foreground shadow-sm',<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    className,<br /></span><span class="token prefix unchanged">·</span><span class="token line">  )}<br /></span><span class="token prefix unchanged">·</span><span class="token line">  {...props}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -118,7 +118,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  variant="default"<br /></span><span class="token prefix unchanged">·</span><span class="token line">  onClick={handleAutoDetect}<br /></span><span class="token prefix unchanged">·</span><span class="token line">  disabled={isDetecting}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  className="flex-shrink-0"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  className="shrink-0"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;SearchIcon<br /></span><span class="token prefix unchanged">·</span><span class="token line">    className={`mr-2 h-4 w-4 ${isDetecting ? 'animate-spin' : ''}`}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2025, 17:15:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 18:16:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
