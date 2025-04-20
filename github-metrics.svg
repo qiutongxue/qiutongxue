@@ -38,12 +38,12 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            948 Commits
+                            953 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.5907983423735" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="210.5907983423735" y="0" width="91.81936066604358" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="302.41015900841705" y="0" width="49.37203667194668" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="351.7821956803637" y="0" width="38.00740092955889" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="389.7895966099226" y="0" width="34.057951456369054" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="423.84754806629167" y="0" width="12.920106972092523" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="436.7676550383842" y="0" width="12.012146930965855" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="448.7798019693501" y="0" width="11.220198030649923" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.48652810316372" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="210.48652810316372" y="0" width="92.0016586754435" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="302.48818677860726" y="0" width="49.347590997612485" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="351.8357777762197" y="0" width="37.98858224983565" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="389.82436002605533" y="0" width="34.0410882753882" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="423.86544830144356" y="0" width="12.913709813929868" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="436.77915811537343" y="0" width="12.006199332857232" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="448.7853574482306" y="0" width="11.214642551769337" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -337,7 +337,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 Apr 2025, 12:03:50
+                            On 20 Apr 2025, 13:36:08
                         </div>
                     </section>
                 </div>
@@ -347,16 +347,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore: 更新 build.yml，减小artifacts 体积
+                            fix: 修复 MacOS 应用图标缺失问题
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">133d8a56</span>
-                            <span class="code">.github/workflows/build.yml</span>
+                            <span class="code">eaa88c9e</span>
+                            <span class="code">electron-builder.json</span>
                             <span class="code">
-                                <span class="snippet additions">++3</span>
+                                <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -365,14 +365,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -50,5 +50,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">       uses: actions/upload-artifact@v4<br /></span><span class="token prefix unchanged">·</span><span class="token line">       with: <br /></span><span class="token prefix unchanged">·</span><span class="token line">         name: release_on_${{ matrix. os }}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">         path: release/<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">         path: |<br /></span><span class="token prefix inserted">+</span><span class="token line">           release/*/*.exe<br /></span><span class="token prefix inserted">+</span><span class="token line">           release/*/*.dmg<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">         retention-days: 7<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,7 +8,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"files": ["dist-electron", "dist"],<br /></span><span class="token prefix unchanged">·</span><span class="token line">"mac": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "artifactName": "${productName}_${version}.${ext}",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  "target": ["dmg", "zip"]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "target": ["dmg"],<br /></span><span class="token prefix inserted">+</span><span class="token line">  "icon": "public/favicon.png"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">"win": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "target": [</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2025, 13:14:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Apr 2025, 14:19:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
